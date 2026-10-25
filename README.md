@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi there
 
-<!--
-**harshavardhanbonda/harshavardhanbonda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am **Bonda Harsha Vardhan**, a Java Full-Stack Developer.
 
-Here are some ideas to get you started:
+I'm focused on building applications using Java and modern web technologies. I'm continuously improving my skills in backend development, frontend development, database management, and REST API design.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technologies & Tools
+
+- **Languages:** Java, JavaScript, Python, SQL
+- **Backend:** Spring Boot, REST APIs
+- **Frontend:** React, HTML, CSS
+- **Database:** PostgreSQL
+- **Messaging & Platform:** Apache Kafka, OpenShift
+- **Version Control:** Git, GitHub, GitLab
+
+## Current Focus
+
+- Strengthening Java and Spring Boot fundamentals
+- Building full-stack applications using React and REST APIs
+- Improving database design and SQL skills
+- Practicing clean code and maintainable development practices
+- Learning effective version control and collaboration workflows
+
+## About Me
+
+I enjoy learning new technologies, solving problems, and building practical software projects. I aim to continuously improve as a developer and contribute to building reliable applications.
+
+---
+
+Always learning. Always building.
